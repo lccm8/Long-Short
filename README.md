@@ -2,7 +2,7 @@
 Cointegration analysis and exploitation for long-short strategy
 
 # Summary
-
+<BR>
 <em> DataExplorer.R </em>
 
 This code will read tickers from Instruments.csv file and download price data between April 2019 and March 2021 from Yahoo Finance API. From the final database of prices, it will check for cointegration (Johansen Test) for all possible pairs of assets.
