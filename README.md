@@ -1,5 +1,5 @@
 # Long-Short
-Cointegration analysis and exploitation for long-short strategy
+Cointegration analysis and long-short strategy
 
 # Summary
 <BR>
